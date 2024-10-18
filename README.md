@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"> 
-This **User Online Validation** project validates whether a user is online or offline and displays their status in real-time. This is built using HTML, CSS, and JavaScript, providing a clean and responsive interface for users.
+This **User Online Validation** is a simple web task which validates whether a user is online or offline and displays their status in real-time. This is built using HTML, CSS, and JavaScript, providing a clean and responsive interface for users.
 </p>
 
 ---
