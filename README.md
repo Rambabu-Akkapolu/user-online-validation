@@ -8,11 +8,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-Online-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 
 <p align="center"> 
-The **User Online Validation** project validates whether a user is online or offline and displays their status in real-time. This is built using HTML, CSS, and JavaScript, providing a clean and responsive interface for users.
+This **User Online Validation** project validates whether a user is online or offline and displays their status in real-time. This is built using HTML, CSS, and JavaScript, providing a clean and responsive interface for users.
 </p>
 
 ---
@@ -20,7 +19,6 @@ The **User Online Validation** project validates whether a user is online or off
 ## 🚀 Features
 - ✅ Real-time user online/offline status.
 - ✅ Dynamic UI updates when the user’s connectivity changes.
-- ✅ Responsive design for mobile, tablet, and desktop devices.
 - ✅ Simple and intuitive interface with a clean look.
 <div align="center">
 </div>
@@ -38,7 +36,7 @@ The **User Online Validation** project validates whether a user is online or off
 
 ## 💻 Live Demo
 
-[Check out the live demo here!](https://via.placeholder.com/demo)
+[Check out the live demo here!](https://rambabu-akkapolu.github.io/user-online-validation/)
 
 ## 📚 References
 
